@@ -21,8 +21,6 @@ CollabTalk is a lightweight and scalable team communication platform inspired by
 | Auth       | JWT or session-based |
 | Optional   | Socket.io or Polling for messaging |
 
-## 👩‍💻 Contributor
 
-- [@Nityasri1205](https://github.com/Nityasri1205)
 
 
